@@ -1,4 +1,4 @@
-[![florkbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=florkbr&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![florkbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=florkbr&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **florkbr/florkbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
